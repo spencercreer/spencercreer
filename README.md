@@ -1,7 +1,7 @@
 ### Spencer Creer
-![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencercreer&show_icons=true&theme=tokyonight)
+![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencercreer&show_icons=true&theme=tokyonight&include_all_commits=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercreer&include_all_commits=true&layout=compact&theme=tokyonight)](https://github.com/spencercreer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercreer&layout=compact&theme=tokyonight)](https://github.com/spencercreer/github-readme-stats)
 
 
 <!--
