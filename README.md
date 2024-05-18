@@ -4,7 +4,9 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercreer&layout=compact&theme=tokyonight)](https://github.com/spencercreer/github-readme-stats)
 
-<img src="./public/aws-certified-developer-associate.png" width="100">
+<a href="https://www.credly.com/badges/f10623dd-9da3-44da-888d-1f5c756d2d60/public_url">
+  <img src="./public/aws-certified-developer-associate.png" width="100">
+</a>
 <!--
 **spencercreer/spencercreer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
