@@ -1,9 +1,10 @@
 ### Spencer Creer
+
 ![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencercreer&show_icons=true&theme=tokyonight&include_all_commits=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercreer&layout=compact&theme=tokyonight)](https://github.com/spencercreer/github-readme-stats)
 
-
+<img src="./public/aws-certified-developer-associate.png" width="100">
 <!--
 **spencercreer/spencercreer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
