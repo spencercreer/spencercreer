@@ -1,12 +1,7 @@
 ### Spencer Creer
 
-<a href="https://www.credly.com/badges/f10623dd-9da3-44da-888d-1f5c756d2d60/public_url" target="_blank">
-  <img width="100" src="./public/aws-certified-developer-associate.png" style="display: block;">
-</a>
-<a href="https://www.credly.com/badges/7fff30d8-5047-4c9a-907d-a57cdf66a0cb/public_url" target="_blank">
-  <img width="100" src="https://github.com/user-attachments/assets/d1db6ab4-6dcf-4ed5-bcdf-fbfb4bbf9f4d" style="display: block;">
-</a>
-
+<img width="100" src="./public/aws-certified-developer-associate.png" alt="AWS Certified Developer Associate">
+<img width="100" src="https://github.com/user-attachments/assets/d1db6ab4-6dcf-4ed5-bcdf-fbfb4bbf9f4d" alt="AWS Certified Solutions Architect Associate">
 <!--![Uploading aws-certified-solutions-architect-associate.png…]()
 
 **spencercreer/spencercreer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
